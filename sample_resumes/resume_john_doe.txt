@@ -1,0 +1,69 @@
+JOHN DOE
+Senior Software Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python developer with 6+ years of expertise in machine learning, NLP, and web development. 
+Proven track record of building scalable AI-powered applications and data pipelines. Strong problem-solving 
+skills with experience leading technical teams.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, JavaScript, SQL
+Machine Learning & AI: TensorFlow, PyTorch, scikit-learn, Keras, NLTK, spaCy
+Web Development: Flask, Django, REST API, HTML, CSS
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, SageMaker), Docker, Kubernetes, CI/CD
+Tools & Methodologies: Git, Agile, Scrum, Test-Driven Development
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Innovations Inc. | 2020 - Present
+• Led development of NLP-based chatbot serving 100K+ users, improving customer satisfaction by 40%
+• Designed and implemented machine learning pipelines using scikit-learn and TensorFlow
+• Built scalable REST APIs with Flask handling 1M+ requests daily
+• Deployed ML models to AWS Lambda for serverless inference
+• Mentored junior developers and conducted code reviews
+• Collaborated with cross-functional teams in Agile environment
+
+Python Developer | DataTech Solutions | 2018 - 2020
+• Developed text classification models achieving 92% accuracy using NLP techniques
+• Created data preprocessing pipelines for machine learning workflows
+• Built Flask web applications for internal tools and dashboards
+• Implemented automated testing and CI/CD pipelines
+• Optimized database queries reducing response time by 60%
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• TensorFlow Developer Certificate
+• Professional Scrum Master I (PSM I)
+
+PROJECTS
+
+AI-Powered Resume Screening System
+• Developed ML system using TF-IDF and cosine similarity for resume matching
+• Implemented NLP techniques including tokenization and lemmatization
+• Built Flask interface for file upload and visualization
+• Technologies: Python, scikit-learn, NLTK, Flask
+
+Sentiment Analysis Application
+• Created deep learning model for social media sentiment analysis
+• Achieved 89% accuracy using LSTM networks with PyTorch
+• Deployed on AWS with Docker containers
+• Technologies: Python, PyTorch, Docker, AWS
+
+Real-time Recommendation Engine
+• Built collaborative filtering system for product recommendations
+• Processed 10M+ user interactions using pandas and NumPy
+• Integrated with PostgreSQL database
+• Technologies: Python, scikit-learn, PostgreSQL, Redis
+
+ADDITIONAL INFORMATION
+Languages: English (Native), Spanish (Intermediate)
+GitHub: 50+ repositories, 200+ contributions in 2023
+Open Source: Contributor to scikit-learn and Flask projects

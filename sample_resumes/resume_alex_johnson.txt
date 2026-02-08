@@ -1,0 +1,97 @@
+ALEX JOHNSON
+Senior Data Scientist & ML Engineer
+alex.johnson@email.com | +1 (555) 456-7890
+LinkedIn: linkedin.com/in/alexjohnson | GitHub: github.com/alexjohnson
+
+PROFESSIONAL PROFILE
+Results-driven Data Scientist with 7+ years of experience in machine learning, deep learning, and NLP. 
+Expert in building end-to-end ML solutions from research to production deployment. Strong background 
+in Python programming, statistical analysis, and cloud infrastructure.
+
+CORE COMPETENCIES
+Programming & Tools: Python, R, SQL, Git, Docker, Kubernetes, Linux
+Machine Learning: scikit-learn, XGBoost, LightGBM, Random Forests, SVM, Ensemble Methods
+Deep Learning: TensorFlow, Keras, PyTorch, Neural Networks, CNNs, RNNs, LSTMs, Transformers
+NLP: NLTK, spaCy, Gensim, Hugging Face Transformers, Word2Vec, BERT, GPT
+Data Processing: pandas, NumPy, Apache Spark, Hadoop, PySpark
+Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+Web Frameworks: Flask, Django, FastAPI, REST API
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+Cloud Platforms: AWS (SageMaker, EC2, S3, Lambda), Google Cloud Platform, Azure
+MLOps: MLflow, Airflow, Jenkins, CI/CD pipelines
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | AI Solutions Corp | 2021 - Present
+• Lead data science team of 5 members developing ML solutions for Fortune 500 clients
+• Built NLP models for customer sentiment analysis processing 1M+ reviews monthly
+• Developed predictive maintenance models reducing equipment downtime by 35%
+• Implemented automated ML pipelines using Flask, Docker, and Kubernetes
+• Deployed models to AWS SageMaker achieving 99.9% uptime
+• Conducted A/B testing and model performance monitoring
+• Collaborated with engineering teams in Agile/Scrum environment
+
+Data Scientist | Data Analytics Inc | 2018 - 2021
+• Created text classification models using TF-IDF and deep learning (LSTM, BERT)
+• Built recommendation systems serving 500K+ users using collaborative filtering
+• Developed time series forecasting models with 93% accuracy
+• Optimized PostgreSQL queries improving data pipeline performance by 50%
+• Presented findings to stakeholders and created data visualizations
+
+Machine Learning Engineer | TechStart Ventures | 2016 - 2018
+• Implemented computer vision models for image classification and object detection
+• Built feature engineering pipelines using scikit-learn and pandas
+• Created Flask APIs for model serving and inference
+• Set up CI/CD pipelines for automated model deployment
+• Utilized Git for version control and team collaboration
+
+EDUCATION
+Master of Science in Data Science
+University of Technology | 2014 - 2016
+Thesis: "Advanced NLP Techniques for Document Classification"
+
+Bachelor of Science in Computer Science
+State University | 2010 - 2014
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• TensorFlow Developer Certificate
+• Google Cloud Professional Data Engineer
+• Professional Scrum Master II (PSM II)
+
+KEY PROJECTS
+
+Customer Feedback Analysis System (NLP)
+• Developed multi-class sentiment classifier using BERT and transformers
+• Processed 10M+ customer reviews with 91% F1-score
+• Built Flask API deployed on AWS Lambda for real-time inference
+• Stack: Python, PyTorch, NLTK, Flask, Docker, AWS
+
+Predictive Analytics Platform
+• Created ensemble models for sales forecasting and demand prediction
+• Integrated with PostgreSQL and MongoDB databases
+• Built interactive dashboards using Plotly and Streamlit
+• Stack: Python, scikit-learn, XGBoost, SQL, Flask, GCP
+
+Automated Resume Screening ML System
+• Designed ML system using TF-IDF vectorization and cosine similarity
+• Implemented NLP preprocessing (tokenization, lemmatization, stop-word removal)
+• Created Flask web interface for recruiter efficiency
+• Stack: Python, scikit-learn, NLTK, Flask
+
+Chatbot with Deep Learning
+• Built conversational AI using sequence-to-sequence models
+• Implemented attention mechanism for improved responses
+• Deployed using Docker containers on AWS
+• Stack: Python, TensorFlow, Keras, Flask, Docker, AWS
+
+PUBLICATIONS & PRESENTATIONS
+• "Deep Learning Approaches for Text Classification" - IEEE Conference 2022
+• "Building Scalable ML Pipelines in Production" - Data Science Summit 2021
+• Technical blog with 50+ articles on Medium (10K+ followers)
+
+ADDITIONAL INFORMATION
+Languages: English (Native), French (Professional working proficiency)
+Open Source: Active contributor to scikit-learn, TensorFlow, and NLTK projects
+Community: Speaker at local Python and ML meetups
+Awards: "Best ML Project Award" at AI Innovation Challenge 2022

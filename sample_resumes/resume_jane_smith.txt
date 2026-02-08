@@ -1,0 +1,60 @@
+JANE SMITH
+Full Stack Web Developer
+jane.smith@email.com | (555) 987-6543
+Portfolio: janesmith.dev | GitHub: github.com/janesmith
+
+SUMMARY
+Creative full stack developer with 3 years of experience building modern web applications. 
+Passionate about creating user-friendly interfaces and scalable backend solutions.
+
+SKILLS
+Frontend: React, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Bootstrap
+Backend: Node.js, Express, Python, Flask
+Databases: MySQL, MongoDB, PostgreSQL
+Tools: Git, GitHub, Webpack, npm, Postman
+Concepts: REST API, Responsive Design, Agile, Version Control
+
+WORK EXPERIENCE
+
+Full Stack Developer | WebCraft Studios | 2021 - Present
+• Developed 15+ responsive web applications using React and Node.js
+• Created RESTful APIs serving multiple frontend applications
+• Implemented user authentication and authorization systems
+• Collaborated with UX designers to improve user experience
+• Participated in daily standup meetings and sprint planning
+
+Junior Web Developer | Digital Solutions | 2020 - 2021
+• Built frontend components using HTML, CSS, and JavaScript
+• Maintained and updated existing web applications
+• Fixed bugs and implemented new features based on client feedback
+• Learned Python basics and Flask framework
+• Worked with MySQL databases for data management
+
+EDUCATION
+Bachelor of Arts in Web Design and Development
+Community College of Technology | 2018 - 2020
+
+PROJECTS
+
+E-Commerce Platform
+• Full-stack e-commerce website with shopping cart and payment integration
+• Frontend: React, Redux, Bootstrap
+• Backend: Node.js, Express, MongoDB
+• Features: User authentication, product catalog, order management
+
+Task Management App
+• Built collaborative task management application
+• Real-time updates using WebSocket
+• Technologies: React, Node.js, Socket.io, MySQL
+
+Personal Portfolio Website
+• Responsive portfolio showcasing projects and skills
+• Technologies: HTML, CSS, JavaScript, Bootstrap
+
+COURSES & LEARNING
+• Introduction to Machine Learning (Online course - In Progress)
+• JavaScript Algorithms and Data Structures (freeCodeCamp)
+• The Complete Web Developer Bootcamp (Udemy)
+
+INTERESTS
+Learning new technologies, UI/UX design, contributing to open source
