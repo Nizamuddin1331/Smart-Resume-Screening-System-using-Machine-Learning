@@ -1,0 +1,71 @@
+SENIOR PYTHON DEVELOPER - MACHINE LEARNING & NLP
+Tech Innovations Inc.
+San Francisco, CA | Full-time
+
+ABOUT US
+Tech Innovations Inc. is a leading AI company specializing in natural language processing 
+and machine learning solutions. We work with Fortune 500 companies to build cutting-edge 
+AI applications that transform businesses.
+
+JOB DESCRIPTION
+We are seeking an experienced Senior Python Developer with strong expertise in Machine 
+Learning and Natural Language Processing to join our growing data science team. The ideal 
+candidate will design, develop, and deploy production-ready ML models and NLP applications.
+
+KEY RESPONSIBILITIES
+• Design and implement machine learning models for various business problems
+• Develop NLP applications for text classification, sentiment analysis, and information extraction
+• Build scalable web applications using Flask or Django frameworks
+• Create REST APIs for model deployment and integration
+• Work with large datasets and implement efficient data processing pipelines
+• Deploy and maintain ML models in cloud environments (AWS, Azure, or GCP)
+• Collaborate with cross-functional teams in an Agile environment
+• Mentor junior developers and conduct code reviews
+• Stay updated with latest ML/NLP research and technologies
+
+REQUIRED QUALIFICATIONS
+• 5+ years of professional experience in Python development
+• Strong knowledge of machine learning algorithms and frameworks (scikit-learn)
+• Experience with deep learning frameworks (TensorFlow, PyTorch, or Keras)
+• Proficiency in NLP techniques and libraries (NLTK, spaCy, or transformers)
+• Experience building web applications with Flask or Django
+• Strong understanding of SQL and database management (PostgreSQL, MySQL)
+• Knowledge of cloud platforms (AWS, Azure, or GCP)
+• Experience with Git version control and Agile methodologies
+• Excellent problem-solving and analytical skills
+• Strong communication and teamwork abilities
+
+PREFERRED QUALIFICATIONS
+• Experience with Docker and Kubernetes for containerization
+• Knowledge of frontend frameworks (React or Angular)
+• Experience in building production ML pipelines
+• Familiarity with CI/CD tools and practices
+• Previous experience with big data technologies (Spark, Hadoop)
+• Published research papers or open-source contributions
+• Master's degree in Computer Science, Data Science, or related field
+
+TECHNICAL SKILLS REQUIRED
+Programming: Python (advanced), SQL
+ML/AI: scikit-learn, TensorFlow, PyTorch, NLP, Deep Learning
+Web: Flask, Django, REST API
+Database: PostgreSQL, MySQL, MongoDB
+Cloud: AWS, Azure, or Google Cloud Platform
+Tools: Git, Docker, Kubernetes, CI/CD
+Methodologies: Agile, Scrum, Test-Driven Development
+
+WHAT WE OFFER
+• Competitive salary range: $140,000 - $180,000 per year
+• Comprehensive health, dental, and vision insurance
+• 401(k) matching program
+• Flexible work arrangements (hybrid/remote options)
+• Professional development budget for courses and conferences
+• Stock options
+• Collaborative and innovative work environment
+• Latest tech stack and tools
+• Opportunity to work on cutting-edge AI projects
+
+APPLICATION PROCESS
+Please submit your resume highlighting relevant experience in Python, Machine Learning, 
+and NLP. Include links to your GitHub profile or portfolio showcasing ML/NLP projects.
+
+We are an equal opportunity employer committed to diversity and inclusion.
