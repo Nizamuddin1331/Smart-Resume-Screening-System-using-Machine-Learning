@@ -205,19 +205,37 @@ nltk.download('wordnet')
 
 ## 📝 License
 
-This project is open source and available for educational and commercial use.
+This project is released under the MIT License.
+You are free to use, modify, and distribute this project for both educational and commercial purposes, provided proper credit is given to the author.
 
 ## 👨‍💻 Author
 
-Developed as a demonstration of Machine Learning and NLP applications in HR technology.
+Mohammed Nizamuddin
+B.Tech in Computer Science and Engineering
+
+This project was developed as a practical demonstration of applying Machine Learning and Natural Language Processing techniques to solve real-world problems in HR and recruitment technology.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions are welcome and appreciated.
+If you would like to contribute:
+
+1. Fork the repository
+
+2. Create a new feature branch
+
+3. Commit your changes with clear messages
+
+4. Open a pull request
+
+Bug reports, feature requests, and improvements are encouraged.
 
 ## 📧 Contact
 
-For questions or support, please open an issue in the repository.
+For questions, suggestions, or support, please open an issue in this repository.
+You can also reach out via email:
+
+📩 mohammednizamuddin072003@gmail.com
 
 ---
 
