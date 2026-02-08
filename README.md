@@ -54,17 +54,27 @@ The application will automatically download required NLTK data (punkt, stopwords
 ## 📁 Project Structure
 
 ```
-resume-screening-system/
+smart-resume-screening-system/
 │
-├── app.py                  # Main Flask application
-├── resume_matcher.py       # ML and NLP processing module
-├── requirements.txt        # Python dependencies
-├── README.md              # Project documentation
+├── app.py                          # Main Flask application (web server)
+├── resume_matcher.py               # ML & NLP core logic (TF-IDF, skill matching)
+├── requirements.txt                # Python dependencies
+├── .gitignore                      # Git ignore file
 │
-├── templates/
-│   └── index.html         # Web interface
+├── README.md                       # Comprehensive project documentation
+├── QUICKSTART.md                   # Quick start guide for users
+├── test_screener.py                # Test script to demo ML functionality
 │
-└── uploads/               # Temporary storage for uploaded files (auto-created)
+├── templates/                      # Flask HTML templates
+│   └── index.html                  # Main web interface (responsive UI)
+│
+├── uploads/                        # Temporary folder for uploaded files (auto-created)
+│
+└── sample_resumes/                 # Sample data for testing
+    ├── sample_job_description.txt  # Example job posting
+    ├── resume_john_doe.txt         # Sample resume 1 (high match)
+    ├── resume_jane_smith.txt       # Sample resume 2 (low match)
+    └── resume_alex_johnson.txt     # Sample resume 3 (very high match)
 ```
 
 ## 💻 Usage
